@@ -5,6 +5,8 @@ Projeto realizado utilizando conhecimento dos cursos "Criando um Projeto com HTM
 
 ##### GitHub do Projeto original: [js-developer-pokedex](https://github.com/digitalinnovationone/js-developer-pokedex)
 
+##### Site API utilizada: [PokeAPI](https://pokeapi.co/)
+
 ## Página de listagem de Pokemons
 
 #### Web
