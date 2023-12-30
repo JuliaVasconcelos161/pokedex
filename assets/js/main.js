@@ -51,12 +51,3 @@ if(loadMoreButton != null) {
 }
 
 
-
-// async function teste() {
-//     await pokeApi.getPokemons().then(() => {
-        
-//     }); 
-// }
-
-// teste();
-

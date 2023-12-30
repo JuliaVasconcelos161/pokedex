@@ -1,3 +1,7 @@
+.pokemon-content {
+    padding: 1rem;
+}
+
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
@@ -78,6 +82,10 @@
     background-color: #f9aec7;
 }
 
+.button {
+    background: none;
+    border: none;
+}
 
 .pokemon {
     display: flex;

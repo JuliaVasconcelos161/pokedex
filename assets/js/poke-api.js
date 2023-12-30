@@ -22,6 +22,9 @@ function convertToPokemonUnique(pokemon) {
     pokemonUnique.types = types;
     pokemonUnique.mainType = type;
     pokemonUnique.photo = pokemon.sprites.other.dream_world.front_default;
+    pokemonUnique.height = pokemon.height;
+    pokemonUnique.weight = pokemon.weight;
+    pokemonUnique.abilities = pokemon.abilities.map((abilitySlot) => abilitySlot.ability.name);
     return pokemonUnique;
 }
 
